@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Roda a cada 24 horas
+  # Roda automaticamente a cada 24 horas
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente
+  # Permite rodar manualmente na aba Actions
   workflow_dispatch:
-  # Roda quando você faz push na branch master/main
+  # Roda sempre que você fizer um push na branch main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,22 +15,32 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token (o GitHub já cria isso sozinho, não precisa mexer)
+          # Seu token (o GitHub já cria isso sozinho)
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Opções Básicas
+          # --- Configurações Básicas ---
           user: joaorizzo0112
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-          # Linguagens
+          # --- Apresentação (BIO) ---
+          # Aqui fica o texto que substitui o seu "Hello! My name is..."
+          plugin_introduction: yes
+          plugin_introduction_title: "Olá, eu sou o João Rizzo! 🚀"
+          plugin_introduction_content: "Estudante de Ciência da Computação (2º Semestre) do Brasil. Tenho interesse na área de desenvolvimento de software e busco experiência prática para aprimorar minhas habilidades técnicas."
+
+          # --- Linguagens ---
           plugin_languages: yes
+          plugin_languages_ignored: ""       # Aspas vazias = Não ignora nada (HTML/CSS aparecem)
+          plugin_languages_limit: 8          # Mostra até 8 linguagens
+          plugin_languages_threshold: 0%     # Mostra tudo, mesmo se for 1%
+          plugin_languages_colors: github    # Cores oficiais
           plugin_languages_details: bytes-size, percentage
           
-          # Sequência de código (Substituto estável do Streak)
+          # --- Calendário e Sequência (Streak) ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Linhas de código adicionadas
+          # --- Linhas de código adicionadas ---
           plugin_lines: yes
