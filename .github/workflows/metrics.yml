@@ -27,8 +27,8 @@ jobs:
           # --- Apresentação (BIO) ---
           # Aqui fica o texto que substitui o seu "Hello! My name is..."
           plugin_introduction: yes
-          plugin_introduction_title: "Olá, eu sou o João Rizzo! 🚀"
-          plugin_introduction_content: "Estudante de Ciência da Computação (2º Semestre) do Brasil. Tenho interesse na área de desenvolvimento de software e busco experiência prática para aprimorar minhas habilidades técnicas."
+          plugin_introduction_title: "Olá, eu sou o João Rizzo!"
+          plugin_introduction_content: "Estudante de Ciência da Computação (3º Semestre) do Brasil. Tenho interesse na área de desenvolvimento de software e busco experiência prática para aprimorar minhas habilidades técnicas."
 
           # --- Linguagens ---
           plugin_languages: yes
