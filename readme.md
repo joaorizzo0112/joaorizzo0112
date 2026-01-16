@@ -31,10 +31,8 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaorizzo0112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorizzo0112&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/joaorizzo0112/joaorizzo0112/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ###
