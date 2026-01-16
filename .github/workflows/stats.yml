@@ -1,0 +1,46 @@
+name: Update Stats
+
+on:
+  schedule:
+    # Roda a cada 24 horas (meia-noite)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-readme-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      # 1. Gera o cartão de Status Gerais
+      - name: Generate Stats Image
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          image: stats-card
+          username: joaorizzo0112
+          # Aqui estão as configurações do visual que você gostou
+          theme: tokyonight
+          show_icons: true
+          count_private: true
+          hide_border: true
+          
+      # 2. Gera o cartão de Linguagens (Compacto)
+      - name: Generate Top Langs Image
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          image: top-langs
+          username: joaorizzo0112
+          # Configuração da barra única (Compact)
+          layout: compact
+          theme: tokyonight
+          hide_border: true
+
+      # 3. Salva as imagens no seu repositório
+      - name: Push new images
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update stats images"
+          # O robô vai salvar os arquivos com esses nomes:
+          file_pattern: "stats-card.svg top-langs.svg"
