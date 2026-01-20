@@ -31,3 +31,13 @@
 </div>
 
 ###
+<div
+ <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="170" src="https://my-stats-puce.vercel.app/api?username=joaorizzo0112&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="170" src="https://my-stats-puce.vercel.app/api/top-langs/?username=joaorizzo0112&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+    </a>
+  </p>
+</div>
