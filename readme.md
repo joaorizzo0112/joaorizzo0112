@@ -1,43 +1,54 @@
-<h2 align="center">Hello! My name is John, I’m Brazilian and a Computer Science student currently in my second semester. I’m interested in the field of software development and looking to gain practical experience to improve my technical and professional skills.</h2>
-
-### 
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-</div>
 
-###
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=280&section=header&text=João%20Rizzo&fontSize=70&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Software%20Development&descAlignY=65&descSize=25&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%">
 
-<div align="center">
+  <br><br>
+
+  <h2>Hello there! I'm João 👋</h2>
+  <p style="font-size: 16px; max-width: 600px;">
+   Computer Science student (3rd semester) with a strong foundation in Java, Python, and Web Technologies. Passionate about continuous learning and building efficient software solutions. Eager to launch my career as a Junior/Intern Developer to solve real-world challenges and evolve within a collaborative environment.
+  </p>
+
+  <br>
+
   <a href="https://www.linkedin.com/in/joão-summers-6415b2263" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-%238A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
   <a href="mailto:joaosummers2016@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/-Gmail-%238A2BE2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
   <a href="https://wa.me/5571992771715" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/-WhatsApp-%238A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp">
   </a>
-</div>
 
-###
-<div
- <p align="center">
+  <br><br><br>
+
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" style="margin: 12px;" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" style="margin: 12px;" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" style="margin: 12px;" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" style="margin: 12px;" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" style="margin: 12px;" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" style="margin: 12px;" alt="Node.js" />
+  </div>
+
+  <br><br>
+
+  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="170" src="https://my-stats-puce.vercel.app/api?username=joaorizzo0112&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" />
+      <img height="175" src="https://my-stats-puce.vercel.app/api?username=joaorizzo0112&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&v=clean_look" alt="Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="170" src="https://my-stats-puce.vercel.app/api/top-langs/?username=joaorizzo0112&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+      <img height="175" src="https://my-stats-puce.vercel.app/api/top-langs/?username=joaorizzo0112&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&v=clean_look" alt="Languages" />
     </a>
   </p>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer" alt="Footer Banner" width="100%">
+
+  <p align="center" style="font-family: monospace; font-size: 10px; color: #8b949e; margin-top: -15px;">
+    Last update: January/2026
+  </p>
+
 </div>
