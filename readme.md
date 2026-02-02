@@ -24,22 +24,22 @@
   <br><br><br>
 
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" style="margin: 12px;" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" style="margin: 12px;" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" style="margin: 12px;" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" style="margin: 12px;" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" style="margin: 12px;" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" style="margin: 12px;" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin: 10px;" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin: 10px;" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin: 10px;" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin: 10px;" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin: 10px;" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin: 10px;" alt="Node.js" />
   </div>
 
   <br><br>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="175" src="https://my-stats-puce.vercel.app/api?username=joaorizzo0112&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&v=clean_look" alt="Stats" />
+      <img height="170" src="https://my-stats-puce.vercel.app/api?username=joaorizzo0112&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&v=clean_look" alt="Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="175" src="https://my-stats-puce.vercel.app/api/top-langs/?username=joaorizzo0112&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&v=clean_look" alt="Languages" />
+      <img height="170" src="https://my-stats-puce.vercel.app/api/top-langs/?username=joaorizzo0112&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&v=clean_look" alt="Languages" />
     </a>
   </p>
 
@@ -48,7 +48,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer" alt="Footer Banner" width="100%">
 
   <p align="center" style="font-family: monospace; font-size: 10px; color: #8b949e; margin-top: -15px;">
-    Last update: January/2026
+    Last update: February/2026
   </p>
 
 </div>
