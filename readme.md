@@ -4,9 +4,9 @@
 
   <br><br>
 
-  <h2>Hello there! I'm João 👋</h2>
+  <h2>Olá! Sou o João👋</h2>
   <p style="font-size: 16px; max-width: 600px;">
-   Computer Science student (3rd semester) with a strong foundation in Java, Python, and Web Technologies. Passionate about continuous learning and building efficient software solutions. Eager to launch my career as a Junior/Intern Developer to solve real-world challenges and evolve within a collaborative environment.
+  Estudante de Ciência da Computação (3º semestre) com sólida base em Java, Python e Tecnologias Web. Apaixonado por aprendizado contínuo e desenvolvimento de soluções de software eficientes. Ansioso para iniciar minha carreira como Desenvolvedor Júnior/Estagiário, resolvendo desafios reais e evoluindo em um ambiente colaborativo.
   </p>
 
   <br>
