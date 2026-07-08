@@ -6,7 +6,7 @@
 
   <h2>Olá! Sou o João👋</h2>
   <p style="font-size: 16px; max-width: 600px;">
-  Estudante de Ciência da Computação (3º semestre) com sólida base em Java, Python e Tecnologias Web. Apaixonado por aprendizado contínuo e desenvolvimento de soluções de software eficientes. Ansioso para iniciar minha carreira como Desenvolvedor Júnior/Estagiário, resolvendo desafios reais e evoluindo em um ambiente colaborativo.
+  Estudante de Ciência da Computação (4º semestre) com sólida base em Java, Python e Tecnologias Web. Apaixonado por aprendizado contínuo e desenvolvimento de soluções de software eficientes. Ansioso para iniciar minha carreira como Desenvolvedor Júnior/Estagiário, resolvendo desafios reais e evoluindo em um ambiente colaborativo.
   </p>
 
   <br>
@@ -48,7 +48,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer" alt="Footer Banner" width="100%">
 
   <p align="center" style="font-family: monospace; font-size: 10px; color: #8b949e; margin-top: -15px;">
-    Last update: February/2026
+    Last update: July/2026
   </p>
 
 </div>
